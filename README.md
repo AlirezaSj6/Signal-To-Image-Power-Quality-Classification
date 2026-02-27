@@ -18,6 +18,3 @@ Comparative study of SVM (engineered features) and CNN (spectrogram images) for 
 
 SVM:
 ![SVM Confusion Matrix](output/svm_confusion.png)
-
-CNN:
-![CNN Confusion Matrix](output/cnn_confusion.png)
